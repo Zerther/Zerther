@@ -53,7 +53,7 @@ Currently expanding my knowledge in:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+<img src="https://skillicons.dev/icons?i=redis,mongodb,postgres"/>
 
 </p>
 
